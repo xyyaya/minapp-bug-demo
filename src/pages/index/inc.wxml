@@ -1,0 +1,4 @@
+<view class="inc">
+  <text>我是来自 inc.wxml 中的文字</text>
+</view>
+<wxs module="area" src="/wxs/area.wxs"></wxs>
